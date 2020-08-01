@@ -1,6 +1,6 @@
 # MNIST Handwritten Digit Classification
 
-*Used various Multilayer Perceptron (MLP) and Convolutional Neural Network (CNN) Models for MNIST Handwitten Digit Classification Problem using Keras.*
+*Used various Multilayer Perceptron (MLP) and Convolutional Neural Network (CNN) Models for MNIST Handwritten Digit Classification Problem using Keras.*
 
 ## Digit Classification - MLP
 
